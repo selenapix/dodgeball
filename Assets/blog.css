@@ -1,0 +1,74 @@
+
+#header-title {
+  font-size: 150%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 55px;
+ 
+}
+
+#back-button{
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  padding-left: 12px;
+  padding-right: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  float: right;
+  margin-right: 85px;
+  
+}
+
+.back-button:hover{
+  transition: 0.2s;
+  opacity: 0.8;
+}
+
+#back-arrow{
+  padding-right: 7px;
+  }
+
+#moon{
+  width: 70px;
+  cursor: pointer;
+  display: flex;
+  margin-left: 1342px;
+  margin-top: -33px;
+  float: right;
+ }
+
+
+ :root {
+  --primary-color: #ffffff;
+  --secondary-color: #171717; 
+  transition: 0.5s;
+}
+
+.dark-theme{
+  --primary-color: #1a1919;
+  --secondary-color: #ffffff; 
+    color: white;
+    transition: 0.5s;
+}
+
+body{
+  background-color: var(--primary-color);
+}
+
+.post-card shadow{
+  background-color: var(--primary-color);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 10px;
+  margin-top: 480px;
+  color: var(--secondary-color);
+}
+
+
