@@ -11,7 +11,7 @@ For a user to create a new post, they need to fill out the form that lists multi
 
 Screenshot of the form:
 
-[Screenshot-2024-05-18-at-9-37-52-AM-2.png](https://postimg.cc/fVnjVYJn)
+![Screenshot 2024-05-18 at 9 38 20 AM](https://github.com/selenapix/dodgeball/assets/166179805/3536d131-4118-436f-97df-4fef2ec474da)
 
 
 
